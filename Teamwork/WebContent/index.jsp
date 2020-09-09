@@ -9,6 +9,7 @@
 <body>
 	<h1>Teamwork</h1>
 	<p>잘해봐요</p>
+	<p>화이팅</p>
 	
 </body>
 </html>
